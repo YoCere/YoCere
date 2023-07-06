@@ -1,16 +1,18 @@
 ## Hi , I'm Jose Cerezo👋
 
-🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías y marcos de trabajo.
+📚  Computer Engineering at uajms.edu.bo
 
-💡 Me encanta resolver problemas y crear soluciones innovadoras.
+🌱 I am always learning and exploring new technologies and frameworks.
 
-💻 Mis habilidades incluyen HTML, CSS, JavaScript, Python, Java y otras que estoy aprendiendo 📖.
+💡 I love solving problems and creating innovative solutions.
 
-📚 Siempre estoy buscando oportunidades para aprender y crecer en el campo de la tecnología.
+💻 My skills include HTML, CSS, JavaScript, Python, Java and others that I'm learning 📖.
 
-🎯 Objetivo: Contribuir a proyectos significativos, colaborar con equipos aprendiendo, enseñando y aplicando.
+📚 I am always looking for opportunities to learn and grow in the field of technology.
 
-¡No dudes en contactarme! Estoy emocionado por ser parte de la comunidad de desarrolladores. 😊
+🎯 Objective: Contribute to significant projects, collaborate with teams, learn, teach and apply my knowledge.
+
+Do not hesitate to contact me! I'm excited to be a part of your developer community. 😊
 
 [![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=YoCere&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoCere&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
