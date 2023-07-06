@@ -1,4 +1,17 @@
-### Hi , I'm Jose Cerezo👋
+## Hi , I'm Jose Cerezo👋
+
+🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías y marcos de trabajo.
+
+💡 Me encanta resolver problemas y crear soluciones innovadoras.
+
+💻 Mis habilidades incluyen HTML, CSS, JavaScript, Python, Java y otras que estoy aprendiendo 📖.
+
+📚 Siempre estoy buscando oportunidades para aprender y crecer en el campo de la tecnología.
+
+🎯 Objetivo: Contribuir a proyectos significativos, colaborar con equipos aprendiendo, enseñando y aplicando.
+
+¡No dudes en contactarme! Estoy emocionado por ser parte de la comunidad de desarrolladores. 😊
+
 [![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=YoCere&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoCere&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
 
