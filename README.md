@@ -42,3 +42,7 @@ Do not hesitate to contact me! I'm excited to be a part of your developer commun
 <a href="https://www.instagram.com/josealfredocerezorios/profilecard/?igsh=a2N3Nngxdm9ocjE4" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://discord.gg/Gnpx4rv2" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 </p>
+<div align="center">
+  
+  ![](https://github.com/YoCere/YoCere/blob/output/github-snake-dark.svg)
+</div>
